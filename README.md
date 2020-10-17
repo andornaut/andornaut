@@ -1,4 +1,4 @@
-Some of my activity occurs under my other account @biniambekele.
+Some of my activity occurs under my other account [@biniambekele](https://github.com/biniambekele).
 
 ## Links
 
