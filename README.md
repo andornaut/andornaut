@@ -1,5 +1,3 @@
-Some of my GitHub activity occurs under my other account [@biniambekele](https://github.com/biniambekele).
-
 Check out my [Manager README](https://managerreadme.com/readme/andornaut).
 
 ## Links
@@ -8,3 +6,4 @@ Check out my [Manager README](https://managerreadme.com/readme/andornaut).
 * [LinkedIn](https://www.linkedin.com/in/biniambekele/)
 * [Personal Website](https://biniambekele.com)
 
+Some of my GitHub activity occurs under my other account [@biniambekele](https://github.com/biniambekele).
