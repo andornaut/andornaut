@@ -3,7 +3,7 @@
 [![CI](https://github.com/andornaut/andornaut/actions/workflows/test.yml/badge.svg)](https://github.com/andornaut/andornaut/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
 
-* [LinkedIn](https://www.linkedin.com/in/biniambekele/)
+* [LinkedIn](https://www.linkedin.com/in/biniambekele)
 * [Manager README](https://managerreadme.com/readme/andornaut)
 * [Personal Website](https://biniambekele.com)
 
