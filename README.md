@@ -12,4 +12,4 @@ Some of my GitHub activity occurs under my other account [@biniambekele](https:/
 ## Development
 
 Run `make check` with Docker to check shell scripts and Markdown.
-`make check-info` lists the declared checks. No test suite or build check is declared.
+No test suite or build check is declared.
